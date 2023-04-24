@@ -11,7 +11,7 @@ Los datos del proyecto se toman de la competición [Allstate State Claims Severi
 
 1. Estando logueado en la cuenta de Kaggle, irse a Settings y dar click en "Create New Token":  
 
-![image](https://user-images.githubusercontent.com/55060788/233893979-2d67dfe3-432b-43d0-8682-3977f63827c3.png)
+![image](https://user-images.githubusercontent.com/75345956/233895698-beb81b8b-489c-4bdd-a660-56efc1a1024e.png)
 
 Después de dar click, se descargará un archivo llamado Kaggle.json
 
@@ -39,5 +39,5 @@ Luego dar click en el boton "Elegir archivos" para cargar el archivo .json
 
 ## Videos
 
-- [Video entrega 1]() 
+- [Video entrega 1](https://youtu.be/wNEXl7stYR4) 
 - [Video entrega 2]()
